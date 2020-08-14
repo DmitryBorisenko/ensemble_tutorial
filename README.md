@@ -1,1 +1,1 @@
-This repository contains a notebook accompanying my [TowardsDataScience post](https://medium.com/p/91af7ebe5090/) on ensemble optimization.
+This repository contains a notebook accompanying my [TowardsDataScience post](https://towardsdatascience.com/ensembles-the-almost-free-lunch-in-machine-learning-91af7ebe5090) on ensemble optimization.
